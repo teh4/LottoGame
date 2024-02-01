@@ -33,7 +33,7 @@ public class LottoView {
             if (manualCount <= gameCount) {
                 return manualCount;
             } else {
-                displayErrorMessage("수동으로 진행할 로또 게임 수는 총 게임 수 " + gameCount + "개 를 초과할 수 없습니다.");
+                displayErrorMessage("수동으로 진행할 로또 게임 수는 '전체 게임 수 " + gameCount + "회'를 초과할 수 없습니다.");
             }
         }
     }
