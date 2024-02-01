@@ -56,14 +56,14 @@
 
 ## 🌀 시연
 
-<br>
+ > **게임**
 
 <details>
   <summary><b> 수동 게임 (👈 Click)</b></summary>
   <div markdown="1">
     <br>
     
-  ![수동게임](https://github.com/teh4/LottoGame/assets/131750928/977518b6-c666-4cbc-8972-c9c9066c56dc)
+  ![수동게임](https://github.com/teh4/LottoGame/assets/131750928/60701630-fade-4756-a7cd-3c3ff99d2d57)
   <br>
 
   수동으로 게임을 진행할 시 6개의 번호를 하나하나 입력 받는다.<br>
@@ -79,7 +79,7 @@
   <div markdown="1">
     <br>
     
- ![자동게임](https://github.com/teh4/LottoGame/assets/131750928/e1eabb2e-f5d2-4553-994e-3a342a58c9de)
+ ![자동게임](https://github.com/teh4/LottoGame/assets/131750928/ec4586ba-c666-40fc-a0b2-b082ebfaebe0)
 <br>
 
 자동으로 게임을 진행을 하기 위해서는 게임 진행을 위한 금액을 입력 후 0을 입력하면 게임 진행이 전체 자동 게임으로 진행 된다.<br>
@@ -95,7 +95,7 @@
   <div markdown="1">
     <br>
     
- ![수동자동게임](https://github.com/teh4/LottoGame/assets/131750928/e0886d48-e731-4ab8-96c9-d990531266d0)
+![수동자동게임](https://github.com/teh4/LottoGame/assets/131750928/2f267615-3ac1-4f59-a193-c28888b89e05)
  <br>
  
  로또 번호 수동 입력과 자동 번호 생성을 동시에 하고 싶다면, 게임 진행을 위한 금액 입력 후 수동으로 진행할 게임 횟수를 전체 게임 횟수 미만으로 입력하면 된다.<br>
@@ -103,6 +103,47 @@
  수동으로 진행하는 게임의 번호 입력은 수동 게임과 동일한 방법으로 진행된다. <br>
  위의 시연 모습에서 수익률이 0.5로 로또 게임이 자동 재시작된다.<br>
  
+  </div>
+</details>
+<br>
+
+> **에러**
+<details>
+  <summary><b> 금액 입력 에러 (👈 Click)</b></summary>
+  <div markdown="1">
+    <br>
+    
+ ![금액에러](https://github.com/teh4/LottoGame/assets/131750928/38e4e4bf-b0e8-4f95-9e53-f0b390dea900)
+  <br>
+  금액 1000원 당 게임 1번 이기에 금액은 1000원 단위로 입력해야 한다.<br>
+  1000원 단위로 잘못 입력하면 에러 메세지와 함께 재입력을 유도한다. <br>
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b> 수동 게임 횟수 에러 (👈 Click)</b></summary>
+  <div markdown="1">
+    <br>
+    
+![수동횟수에러](https://github.com/teh4/LottoGame/assets/131750928/8739005d-0c62-4df4-856c-7e121cfea720)
+<br>
+수동으로 진행할 게임 횟수의 최대값은 전체 게임 횟수이다.<br>
+따라서 전체 게임 횟수보다 큰 값을 입력하면 에러 메세지와 함께 재입력을 유도한다.<br>
+
+  </div>
+</details>
+<br>
+
+<details>
+  <summary><b> 수동 번호 입력 에러 (👈 Click)</b></summary>
+  <div markdown="1">
+    <br>
+    
+![수동번호에러](https://github.com/teh4/LottoGame/assets/131750928/c97560b1-8fa0-43d9-8437-0b186cfeabda)
+ <br>
+ 이전에 입력한 번호와 동일하게 입력하면 에러메세지와 함께 재입력을 유도한다.<br>
+또한, 로또 번호는 1~45 사이로 입력해야 하며, 다른 범위의 숫자를 입력하면 에러 메세지와 함께 재입력을 유도한다.<br>
   </div>
 </details>
 <br>
