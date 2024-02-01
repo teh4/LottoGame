@@ -123,7 +123,7 @@
 <br>
 
 <details>
-  <summary><b> 수동 게임 횟수 에러 (👈 Click)</b></summary>
+  <summary><b> 수동 게임 횟수 입력 에러 (👈 Click)</b></summary>
   <div markdown="1">
     <br>
     
