@@ -127,7 +127,7 @@
   <div markdown="1">
     <br>
     
-![수동횟수에러](https://github.com/teh4/LottoGame/assets/131750928/8739005d-0c62-4df4-856c-7e121cfea720)
+![수동횟수에러](https://github.com/teh4/LottoGame/assets/131750928/40fc226b-b5b3-452e-b632-577f9506c7dc)
 <br>
 
 수동으로 진행할 게임 수의 최대값은 전체 게임 수이다.<br>
